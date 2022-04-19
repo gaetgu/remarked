@@ -1,8 +1,0 @@
-#+TITLE: Remarked
-#+SUBTITLE: A modern code editor
-
-* Another code editor?
-Well, not really. Remarked is not a code editor as much as it is a code /commenter/. Editors like VSCode and IntelliJ provide awesome editing features, but (most) of them aren't really *necessary*.
-Sure, you might think it is nice to have completions (and errors) thrown at you every time you touch a key, and those features /certainly/ have their place. But most of the features packed into
-modern editors have everything to do with writing and editing your code, and nothing to do with remembering what that code does. The biggest advancements in code commenting (for every language)
-in the past 20 years have been auto-comment on enter and =TODO= highlighting.
