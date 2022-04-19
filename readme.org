@@ -1,0 +1,23 @@
+#+TITLE: Remarked
+#+SUBTITLE: A modern code editor
+
+*NOTE:* This is just a concept (for now)
+
+* Another code editor?
+Well, not really. Remarked is not a code editor as much as it is a code /commenter/. Editors like VSCode and IntelliJ provide awesome editing features, but (most) of them aren't really *necessary*.
+Sure, you might think it is nice to have completions (and errors) thrown at you every time you touch a key, and those features /certainly/ have their place. But most of the features packed into
+modern editors have everything to do with writing and editing your code, and nothing to do with remembering what that code does. The biggest advancements in code commenting (for every language)
+in the past 20 years have been auto-comment on enter and =TODO= comment highlighting. I want to change that.
+
+* What is Remarked?
+Remarked is a concept that I have tought "that should be a thing" multiple times over the past couple of year that I have been programming. Remarked is a way of doodling next to your code, and being
+able to edit your code and the drawing together, and save it persistently. In this way, I can draw out how a binary tree inversion works next to the function that implements it, edit the function,
+make a couple of new functions, and have the doodle still saved /right next to the origional function/. This would work by "tying" a doodle to a function (or variable, or type, etc.), so that it
+stays in the same position relative to the definition, even if the definition changes or is moved by normal editing.
+
+* Who is Remarked for?
+My first answer is: *everyone*! People who write code for a living or as a hobby. Teachers who want to be able to draw explanations right into the code they are editing. Even people who just want to
+annotate their latest book manuscript.
+
+But being more realistic, Remarked is probably just for people who have both a computer running macOS and an iPad. The ecosystem between these two OSes is just amazing so it makes sense. This will
+also be more useful for me, since I have a MacBook and an iPad with a pencil, though it would be interesting to see this done on Windows for those with Surface notebooks.
