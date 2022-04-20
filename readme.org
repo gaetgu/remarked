@@ -2,6 +2,7 @@
 #+SUBTITLE: A modern code editor
 
 *NOTE:* This is just a concept (for now)
+I am also planning an actual concept (beyond just a text description) to come soon.
 
 * Another code editor?
 Well, not really. Remarked is not a code editor as much as it is a code /commenter/. Editors like VSCode and IntelliJ provide awesome editing features, but (most) of them aren't really *necessary*.
