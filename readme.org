@@ -1,8 +1,8 @@
 #+TITLE: Remarked
 #+SUBTITLE: A modern code editor
 
-*NOTE:* This is just a concept (for now)
-I am also planning an actual concept (beyond just a text description) to come soon.
+[[./remarked_concept.png]]
+Eventually I want to add a more complete concept, probably made in motion or smth.
 
 * Another code editor?
 Well, not really. Remarked is not a code editor as much as it is a code /commenter/. Editors like VSCode and IntelliJ provide awesome editing features, but (most) of them aren't really *necessary*.
